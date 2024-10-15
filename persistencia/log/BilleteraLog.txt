@@ -1,0 +1,4 @@
+oct 13, 2024 9:32:07 P. M. co.edu.uniquindio.preparcil2.preparcial2.utils.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: agregarEstudiante,Estudiante agregado: Pepe,2024-10-13
+oct 13, 2024 9:35:54 P. M. co.edu.uniquindio.preparcil2.preparcial2.utils.ArchivoUtil guardarRegistroLog
+INFORMACIÓN: agregarEstudiante,Estudiante agregado: Pepe,2024-10-13

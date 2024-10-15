@@ -1,0 +1,14 @@
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/EscuelaApplication.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/controller/EstudianteController.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/controller/ModelFactoryController.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/controller/service/IEstudianteControllerService.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/controller/service/IModelFactoryService.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/exception/EstudianteException.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/model/Escuela.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/model/Estudiante.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/model/service/IEscuelaService.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/utils/ArchivoUtil.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/utils/EscuelaUtils.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/utils/Persistencia.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/co/edu/uniquindio/preparcil2/preparcial2/viewController/EstudianteViewController.java
+/home/pinina/Documentos/uq/preparcial/co.edu.uniquindio.preparcial2/src/main/java/module-info.java
